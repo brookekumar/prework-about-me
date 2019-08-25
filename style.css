@@ -1,0 +1,17 @@
+h1 {text-align: center;}
+#line1 {color: red;}
+#line2 {color: blue;}
+#line3 {color: green;}
+#font1 {font-size: 50px;}
+#font2 {font-size: 5px;}
+#center1 {text-align: center;}
+#bold {font-weight: bold;}
+#font {font-family: Arial, Helvetica, sans-serif;}
+#many {color: orange;
+    font-weight: bold;
+    font-size: 50px;}
+.styledFont 
+{
+    color: green;
+font-family: Arial, Helvetica, sans-serif;
+}
